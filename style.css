@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #d95f84;
+    background-image: url('red-rose-flower-beauty-black-dark.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 120%;
+  }
+  
+  header {
+    text-align: center;
+    background-color: #0f0101;
+    padding: 20px;
+    margin-left: 0px;
+
+  }
+  
+  section {
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+    text-align: justify;
+  }
+  
+  footer {
+    text-align: center;
+    background-color: #040404;
+    padding: 20px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+  }
+  h1, h2{
+    color:rgb(235, 77, 77);
+    font-family: cursive;
+  }
+  #bp{
+    color: #FFC1C1;
+  }
+  #tm{
+    color: #FFC1C1;
+  }
+  img{
+    float: right;
+  }
